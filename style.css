@@ -1,0 +1,208 @@
+body {
+background-color: #a1be7e;
+
+}
+
+.title {
+text-align: center;
+border: solid;
+  border-color: #2a9e00;
+color: #2a9e00;
+  background-color: #004712;
+  font-size: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 450px;
+  height: 300px;
+  border-radius: 25px;
+  border-width: 3px;
+  font-family: "Poltawski Nowy";
+}
+.title h5 {
+font-size: 18px;
+  
+}
+
+.leftimage img {
+width: 400px;
+  height: 300px;
+  float: left;
+  border: solid;
+  border-color: #2a9e00;
+
+  
+}
+
+.leftimage p {
+text-align: center;
+border: solid;
+  border-color: #2a9e00;
+  background-color: whitesmoke;
+  font-size: 23px; 
+  font-family: "Roboto Slab", cursive;
+  
+}
+
+.titulo {
+text-align: center;
+  border: solid;
+  border-color: #2a9e00;
+  color: #2a9e00;
+  background-color: #004712;
+  width: 500px;
+ margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  border-width: 3px;
+  font-family: "Poltawski Nowy";
+}
+
+nav {
+text-align: center;
+  border: solid;
+  background-color: #c2ffd1;
+  border-color:  #1a7a32;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  border-width: 3px;
+}
+nav a {
+color: #226d3c;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-family: "Roboto Slab";
+  
+}
+nav a:hover {
+  border: solid;
+  border-color: #add1ff;
+background-color: #add1ff;
+  border-radius: 10px;
+  border-width: 3px;
+
+  
+}
+
+.titulo2 h2 {
+text-align: center;
+  border: solid;
+  border-color: #2a9e00;
+  color: #2a9e00;
+  background-color: #004712;
+  width: 500px;
+  height: 60px;
+ margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  border-width: 3px;
+  font-family: "Poltawski Nowy";
+  
+}
+.rightimage img {
+float: right;
+  width: 400px;
+  height: auto;
+  border: solid;
+  border-color: #2a9e00;
+}
+.info {
+text-align: center;
+border: solid;
+  border-color: #2a9e00;
+  background-color: whitesmoke;
+  font-size: 20px;
+  font-family: "Roboto Slab";
+   width: auto;
+  
+}
+.info h2 {
+color: #2a9e00;
+  
+}
+
+.info ul {
+text-align: left;
+   
+}
+
+.info iframe {
+width: 500px;
+  height: 240px;
+  
+}
+
+.titulo3 h2 {
+text-align: center;
+  border: solid;
+  border-color: #2a9e00;
+  color: #2a9e00;
+  background-color: #004712;
+  width: 500px;
+  height: 60px;
+ margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  border-width: 3px;
+  font-family: "Poltawski Nowy";
+  
+}
+
+.mission {
+  text-align: center;
+border: solid;
+  border-color: #2a9e00;
+  background-color: whitesmoke;
+  font-size: 20px;
+  font-family: "Roboto Slab";
+}
+.mission h2 {
+color: #2a9e00;
+  
+}
+.mission img {
+width: 600px;
+  height: 280px;
+  
+}
+.about {
+text-align: center;
+  border: solid;
+  border-color: #2a9e00;
+  color: #2a9e00;
+  background-color: #004712;
+  width: 500px;
+  height: 60px;
+ margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  border-width: 3px;
+  font-family: "Poltawski Nowy";
+  
+}
+
+.aboutme {
+text-align: center;
+border: solid;
+  border-color: #2a9e00;
+  background-color: whitesmoke;
+  font-size: 20px;
+  width: 500px;
+  margin-left:auto ;
+  margin-right: auto;
+  font-family: "Roboto Slab";
+  
+}
+aboutme h2 {
+color: #2a9e00;
+  
+}
+input {
+width: 100px;
+  height: 80px;
+  
+}
+.name {
+text-align: center;
+  
+}
